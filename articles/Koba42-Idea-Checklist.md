@@ -1,5 +1,5 @@
 # The Idea Vetting Checklist
-## 47 Questions Every Founder Must Answer Before Building
+## 42 Questions Every Founder Must Answer Before Building
 
 **Stop wasting money on development. Start here.**
 
@@ -63,15 +63,11 @@ Having a problem and having budget are different things. College students have l
 
 You need to find them to sell to them. What subreddits? What LinkedIn groups? What conferences? What podcasts do they listen to? What newsletters do they read? If you can't answer this, you can't market efficiently.
 
-### 11. What language do they use to describe this problem?
-
-Your words might not be their words. If you call it "workflow optimization" but they call it "getting stuff done without losing my mind," you'll miss each other entirely. Read forums. Read reviews. Listen to how they actually talk.
-
-### 12. Are they actively searching for solutions?
+### 11. Are they actively searching for solutions?
 
 Check search volumes. Look at Google Trends. Are people typing this problem into search bars? Active searchers are easier to convert than people who don't know they have a problem yet. Educating a market is expensive.
 
-### 13. What would make them switch from their current solution to yours?
+### 12. What would make them switch from their current solution to yours?
 
 Switching costs are real. Learning curves, data migration, team retraining, breaking existing habits. Your product doesn't just need to be better—it needs to be enough better to justify the pain of switching.
 
@@ -81,7 +77,7 @@ Switching costs are real. Learning curves, data migration, team retraining, brea
 
 If you can't articulate your value clearly, neither can your customers.
 
-### 14. What is the dream outcome your product delivers?
+### 13. What is the dream outcome your product delivers?
 
 Not features. Outcomes. 
 
@@ -95,19 +91,19 @@ Not features. Outcomes.
 
 Sell the destination, not the vehicle.
 
-### 15. How quickly do they get that outcome?
+### 14. How quickly do they get that outcome?
 
 Speed is a multiplier on value. "Get more clients" is okay. "Get your first new client within 14 days" is compelling. The faster the result, the more valuable the offer.
 
-### 16. How likely are they to achieve that outcome with your product?
+### 15. How likely are they to achieve that outcome with your product?
 
 A program that works for 90% of users is worth more than one that works for 30%. What can you do to increase their probability of success? Onboarding? Support? Templates? Guarantees?
 
-### 17. What effort is required from them to get that outcome?
+### 16. What effort is required from them to get that outcome?
 
 Lower effort equals higher value. If they have to watch 40 hours of training and completely change their workflow, that's a hard sell. If they can get results in 15 minutes, that's an easy sell.
 
-### 18. Can you articulate your value equation?
+### 17. Can you articulate your value equation?
 
 **Value = (Dream Outcome × Likelihood of Success) ÷ (Time to Result × Effort Required)**
 
@@ -119,23 +115,23 @@ Your job is to maximize the top and minimize the bottom. Every product decision 
 
 Ideas don't pay bills. Business models do.
 
-### 19. How will you make money?
+### 18. How will you make money?
 
 Subscription? One-time purchase? Freemium? Transaction fees? Usage-based pricing? Ads? Pick a model and understand its implications. Subscriptions create predictable revenue but require ongoing value delivery. One-time purchases mean constantly finding new customers.
 
-### 20. What will you charge?
+### 19. What will you charge?
 
 Actual number. Not a range. "$47/month for the core plan, $147/month for premium with additional features." Vague pricing means you haven't done the thinking yet.
 
-### 21. Why will people pay that amount?
+### 20. Why will people pay that amount?
 
 Connect price to value. If you charge $100 and they get $1,000 in value, the sale makes itself. If the value isn't obviously greater than the price, you'll fight for every customer.
 
-### 22. What is your customer acquisition cost?
+### 21. What is your customer acquisition cost?
 
 How much money to get one paying customer? Add up ads, content creation time, sales calls, free trials that don't convert—everything. Most founders drastically underestimate this number.
 
-### 23. What is your customer lifetime value?
+### 22. What is your customer lifetime value?
 
 How much does the average customer pay over their entire relationship with you? 
 
@@ -143,11 +139,11 @@ How much does the average customer pay over their entire relationship with you?
 
 **Example:** A $50/month product with 12-month average retention has a $600 LTV.
 
-### 24. Is your LTV at least 3x your CAC?
+### 23. Is your LTV at least 3x your CAC?
 
 This is the benchmark. If it costs you $100 to acquire a customer worth $300, you have a healthy business. If it costs $100 to acquire a customer worth $150, you're in trouble. The math has to math.
 
-### 25. What are your gross margins?
+### 24. What are your gross margins?
 
 Revenue minus direct costs, divided by revenue. Software typically runs 70-85% margins. Services run 30-50%. Lower margins mean you need higher volume to build a real business.
 
@@ -157,27 +153,27 @@ Revenue minus direct costs, divided by revenue. Software typically runs 70-85% m
 
 If you think you have no competition, you haven't looked hard enough.
 
-### 26. Who are your direct competitors?
+### 25. Who are your direct competitors?
 
 Products that solve the same problem for the same people. Name them. Use them. Understand them deeply. Ignorance of your competition isn't a strategy.
 
-### 27. Who are your indirect competitors?
+### 26. Who are your indirect competitors?
 
 This includes doing nothing, hiring someone to handle it, using generic tools like spreadsheets, or any other way people currently address the problem. These are often bigger competitors than the obvious ones.
 
-### 28. What do competitors do well?
+### 27. What do competitors do well?
 
 Be honest. Where are they winning? What do their customers love? Understanding their strengths helps you avoid competing where you'll lose.
 
-### 29. What do competitors do poorly?
+### 28. What do competitors do poorly?
 
 Read their one-star reviews. What complaints come up repeatedly? Where are customers frustrated? These gaps are your opportunities.
 
-### 30. Why will customers choose you over them?
+### 29. Why will customers choose you over them?
 
 Not "because we're better." Specifically, what do you offer that they can't or won't? Lower price? Better experience? Specific niche focus? Faster results? You need a clear differentiator.
 
-### 31. What's your unfair advantage?
+### 30. What's your unfair advantage?
 
 What do you have that's hard to replicate? Domain expertise from 10 years in the industry? Proprietary technology? Existing audience? Key relationships? Strategic partnerships? If there's no moat, you're building on borrowed time.
 
@@ -187,34 +183,30 @@ What do you have that's hard to replicate? Domain expertise from 10 years in the
 
 Features are easy to list. The right features are hard to choose.
 
-### 32. What is the minimum viable product?
+### 31. What is the minimum viable product?
 
 The smallest version that delivers the core value proposition. Not your full vision—your starting point. Most founders include too much in "minimum." Cut deeper.
 
-### 33. What features are essential for launch?
+### 32. What features are essential for launch?
 
 List them. Then ask yourself: "Would someone pay for this without that feature?" If yes, cut the feature. Repeat until you're uncomfortable. That's your launch scope.
 
-### 34. What features can wait until version 2.0?
-
-Everything else goes here. Keep this list visible. Every time someone suggests a feature, add it here instead of adding scope to v1.
-
-### 35. What does the user journey look like?
+### 33. What does the user journey look like?
 
 Map every step. How do they discover you? What makes them sign up? What happens in their first session? How do they reach the "aha moment"? What brings them back? Where might they drop off?
 
-### 36. What technical requirements do you have?
+### 34. What technical requirements do you have?
 
 - **Platforms:** web, iOS, Android?
 - **Integrations:** what other tools must you connect with?
 - **Performance:** how fast does it need to be?
 - **Security:** what data are you handling and what compliance matters?
 
-### 37. What is your realistic development timeline?
+### 35. What is your realistic development timeline?
 
 Whatever you think, double it. Then add 50%. Software always takes longer than expected. Plan for delays so they don't destroy your runway.
 
-### 38. What is your realistic development budget?
+### 36. What is your realistic development budget?
 
 Get actual quotes from actual developers. Add 30% contingency. Underfunding is the most common startup killer. Know your real numbers.
 
@@ -224,39 +216,27 @@ Get actual quotes from actual developers. Add 30% contingency. Underfunding is t
 
 Optimism builds companies. Delusion kills them.
 
-### 39. Why will this succeed when similar ideas have failed?
+### 37. Why will this succeed when similar ideas have failed?
 
 Others have tried something similar. They probably failed. Do you know why? What's different about your timing, approach, market, or execution?
 
-### 40. What would have to be true for this to work?
-
-List every assumption. "The market is big enough." "People will pay this price." "We can acquire customers for under $50." "Users will retain for at least 6 months." Now pressure-test each one.
-
-### 41. What's the biggest risk to this business?
+### 38. What's the biggest risk to this business?
 
 Be honest. Is it that the market doesn't exist? That a big player could crush you? That the technology is too hard? That you'll run out of money? Name your biggest threat.
 
-### 42. How will you mitigate that risk?
+### 39. How will you mitigate that risk?
 
 Knowing the risk isn't enough. What's your plan? If market risk is highest, validate more before building. If competition risk is highest, build faster or find a defensible niche.
 
-### 43. What do you know about this space that others don't?
-
-Your unique insight. The thing you've learned from experience that gives you an edge. If you don't have one, ask yourself why you're the right person to build this.
-
-### 44. Why are you the right person to build this?
+### 40. Why are you the right person to build this?
 
 Domain expertise? Technical skills? Existing relationships with target customers? Previous startup experience? Not everyone should build every idea. Why this idea for you?
 
-### 45. Can you survive 18 months without revenue?
+### 41. Can you survive 18 months without revenue?
 
 Most products take longer to reach profitability than founders expect. What's your runway? Can you extend it? Do you need outside funding, and if so, when?
 
-### 46. What will you do if this doesn't work?
-
-Not pessimism—wisdom. At what point do you pivot? At what point do you shut down? What's your personal financial safety net? Having an exit plan lets you take bigger swings.
-
-### 47. Are you building this because the market needs it, or because you want to build it?
+### 42. Are you building this because the market needs it, or because you want to build it?
 
 Honest answer only. Passion projects can become businesses, but only if the market agrees. Are you solving your own problem or a real market need? Markets don't care about your passion. They care about their problems.
 
