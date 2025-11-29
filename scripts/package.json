@@ -1,0 +1,32 @@
+{
+  "name": "koba42-ai-examples",
+  "version": "1.0.0",
+  "description": "Comprehensive AI development examples for learning and experimentation",
+  "main": "01-basic-setup.js",
+  "scripts": {
+    "test": "echo \"Run individual scripts with: node <script-name>.js\"",
+    "setup": "node 01-basic-setup.js"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "machine-learning",
+    "examples",
+    "tutorials",
+    "javascript"
+  ],
+  "author": "Koba42",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.20.0",
+    "dotenv": "^16.3.1"
+  },
+  "optionalDependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
